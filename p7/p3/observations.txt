@@ -1,0 +1,11 @@
+Generating basic table (like in TFO paper)
+Page	RTT(ms)	PLT: no TFO (s)	PLT: TFO (s)	Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+	200 	5969.615 	4395.938 	26.3614487701
+	100 	3582.486 	2825.814 	21.1214223866
+	20 	2446.257 	2290.935 	6.34937375754
+httpwww.amazon.com
+	200 	5307.729 	3079.334 	41.9839633862
+	100 	3149.695 	2220.884 	29.4889187683
+	20 	1684.847 	1577.927 	6.3459768157
+
